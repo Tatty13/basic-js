@@ -1,6 +1,38 @@
 # BasicJS
 
-⚠️ DO NOT SUBMIT PULL REQUESTS TO THIS REPO ⚠️
+⚠️ DO NOT SUBMIT PULL REQUESTS TO [THIS](https://github.com/AlreadyBored/basic-js) REPO ⚠️
+
+---
+
+## Stack
+* JavaScript (ES6)
+* Webpack
+* Git
+
+---
+## Tasks:
+
+* ✅ [Count cats!](https://github.com/Tatty13/basic-js/blob/master/src/count-cats.js) 
+* ✅ [Carbon dating](https://github.com/Tatty13/basic-js/blob/master/src/carbon-dating.js)
+* ✅ [Common character count](https://github.com/Tatty13/basic-js/blob/master/src/common-character-count.js)
+* ✅ [Delete digit](https://github.com/Tatty13/basic-js/blob/master/src/delete-digit.js)
+* ✅ [DNS stat](https://github.com/Tatty13/basic-js/blob/master/src/dns-stats.js)
+* ✅ [Dream team](https://github.com/Tatty13/basic-js/blob/master/src/dream-team.js)
+* ✅ [Encode line](https://github.com/Tatty13/basic-js/blob/master/src/encode-line.js)
+* ✅ [Extended repeater](https://github.com/Tatty13/basic-js/blob/master/src/extended-repeater.js)
+* ✅ [File names](https://github.com/Tatty13/basic-js/blob/master/src/file-names.js)
+* ✅ [Get email domain](https://github.com/Tatty13/basic-js/blob/master/src/get-email-domain.js)
+* ✅ [Tower of Hanoi](https://github.com/Tatty13/basic-js/blob/master/src/hanoi-tower.js)
+* ✅ [Is MAC-48 Adress?](https://github.com/Tatty13/basic-js/blob/master/src/mac-address.js)
+* ✅ [Matrix elements sum](https://github.com/Tatty13/basic-js/blob/master/src/matrix-elements-sum.js)
+* ✅ [Minesweeper](https://github.com/Tatty13/basic-js/blob/master/src/mine-sweeper.js)
+* ✅ [Recursive depth calculator](https://github.com/Tatty13/basic-js/blob/master/src/recursive-depth.js)
+* ✅ [Chain make](https://github.com/Tatty13/basic-js/blob/master/src/simple-chain.js)
+* ✅ [Sort by height](https://github.com/Tatty13/basic-js/blob/master/src/sort-by-height.js)
+* ✅ [Sum digits](https://github.com/Tatty13/basic-js/blob/master/src/sum-digits.js)
+* ✅ [Transform array](https://github.com/Tatty13/basic-js/blob/master/src/transform-array.js)
+* ✅ [Vigenere cipher](https://github.com/Tatty13/basic-js/blob/master/src/vigenere-cipher.js)
+* ✅ [What season](https://github.com/Tatty13/basic-js/blob/master/src/what-season.js)
 
 ---
 
@@ -12,14 +44,6 @@
 5. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install)  
 6. Run `npm run test` in command line.
 7. You will see the number of pending, passing and failing tests. 100% of passing tests is equal to max score for the task
-
----
-
-#### Submit to [rs app](https://app.rs.school)
-1. Open [rs app](https://app.rs.school) and login
-2. Go to submit task page
-3. Select your task (BasicJS)
-4. Press the submit button and enjoy
 
 ---
 
@@ -452,20 +476,6 @@ Write your code in `src/sum-digits.js`.
 ---
 
 © [AlreadyBored](https://github.com/alreadybored)  
-
-& tasks:
-* Common character count
-* Delete digit
-* DNS stat
-* Encode line
-* File names
-* Get email domain
-* Is MAC-48 Adress?
-* Matrix elements sum
-* Minesweeper
-* Sort by height
-* Sum digits
-
 are integrated from [Short track 2021 repo](https://github.com/rkhaslarov/rs-school-short-track-2021)
 
 & Thanks [mikhama](https://github.com/mikhama) for assistance!
